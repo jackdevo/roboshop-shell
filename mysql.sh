@@ -18,4 +18,3 @@ cd /tmp
 unzip -o mysql.zip
 cd mysql-main
 mysql -u root -pRoboShop@1 <shipping.sql
-
